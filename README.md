@@ -17,12 +17,17 @@
 - Currently a SWE Student at General Assembly
   
 - Transitioning from a Credit career in Corporate/Commercial Banking
-
-- Current Projects include: Memory-Concentration Game
   
-- I enjoy wine tasting :wine_glass:, tennis :tennis: (not Pickleball), and video games :video_game:
+- I enjoy wine tasting :wine_glass:, tennis :tennis: (not pickleball), and video games :video_game:
   
 - Let's Connect!: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/)
+
+---
+
+### :link: Recent Projects:
+- Tic-Tac-Toe [insert link]
+  
+- Memory-Concentration Game [insert link]
 
 ---
 
