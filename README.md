@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Shane Young
 
 ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyoung91)
 -
