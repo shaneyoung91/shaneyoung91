@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shane Young
+### Hi there :wave:, I'm Shane Young
 
 <div id="header">
   <div id="badges">
