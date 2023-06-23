@@ -45,4 +45,4 @@
 ### My Stats :
 ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyoung91&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoung91&layout=donut&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoung91&layout=donut&theme=tokyonight)
