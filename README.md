@@ -20,14 +20,14 @@
   
 - I enjoy wine tasting :wine_glass:, tennis :tennis: (not pickleball), and video games :video_game:
   
-- Let's Connect! :   [![Linkedin Badge](https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/)
+- Let's Connect! :  [![Linkedin Badge](https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/)
 
 ---
 
 ### :link: Recent Projects:
-- Tic-Tac-Toe [insert link]
+- Tic-Tac-Toe => [insert link]
   
-- Memory-Concentration Game ![Link](https://github.com/shaneyoung91/Memory-Concentration-Game.git)
+- Memory-Concentration Game => https://github.com/shaneyoung91/Memory-Concentration-Game.git
 
 ---
 
