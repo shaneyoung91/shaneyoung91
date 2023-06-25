@@ -25,8 +25,7 @@
 ---
 
 ### :link: Recent Projects:
-- <b>Tic-Tac-Toe</b> :arrow_right: [insert link]
-  
+
 - <b>Memory-Concentration Game</b> :arrow_right: https://github.com/shaneyoung91/Memory-Concentration-Game.git
 
 ---
