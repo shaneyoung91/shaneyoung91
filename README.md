@@ -1,6 +1,5 @@
-### Hi there :wave:, I'm Shane Young
-
 <div id="header" align="center">
+  ### Hi there :wave:, I'm Shane Young
   <img src="https://komarev.com/ghpvc/?username=shaneyoung91&style=flat-square&color=blue" alt=""/>
 </div>
 
