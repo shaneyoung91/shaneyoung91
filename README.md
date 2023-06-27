@@ -1,9 +1,6 @@
 ### Hi there :wave:, I'm Shane Young
 
 <div id="header">
-  <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=shaneyoung91&style=flat-square&color=blue" alt=""/>
 </div>
 
