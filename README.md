@@ -14,7 +14,7 @@
   
 - Transitioning from a Credit career in Corporate/Commercial Banking
   
-- I enjoy wine tasting :wine_glass:, tennis :tennis:, and video games :video_game:
+- I enjoy wine tasting :wine_glass:, tennis :tennis:, video games :video_game:, personal finance :money_with_wings:, and cooking :fork_and_knife:!
   
 - Let's Connect! :  [![Linkedin Badge](https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/)
 
