@@ -20,14 +20,14 @@
 
 ---
 
-### :link: Recent Projects:
+## :link: Recent Projects:
 
 - <b>Memory-Concentration Game</b> :arrow_right: [Click Here!](https://github.com/shaneyoung91/Memory-Concentration-Game.git)
 - <b>My Money, My Problems - A Personal Finance Budget App</b> :arrow_right: [Click Here!](https://my-money-my-problems-adc02cdb74c3.herokuapp.com/)
 
 ---
 
-### Languages and Tools :
+## Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="70" height="70"/>&nbsp;
