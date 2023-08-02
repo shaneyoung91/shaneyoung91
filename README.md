@@ -14,16 +14,14 @@
   <img src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/1a5c5020-399f-47ab-9e74-685223f823d4"/>
 </div>
 
-## About Me :
+## About Me
 - Currently a Student at General Assembly, with a focus in Full Stack Development. 
   
 - Transitioning from a Credit career in Corporate/Commercial Banking
   
 - I enjoy wine tasting :wine_glass:, tennis :tennis:, video games :video_game:, personal finance :money_with_wings:, and cooking :fork_and_knife:!
 
-<img align="right" alt="GIF" src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/b52c2393-d409-4f7c-8440-3b39b33a2be9" width="408" height="318" />
-
-## Programming Languages:
+## Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,25 +30,25 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-## Frameworks and Libraries:
+## Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-## Tools:
+## Tools
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-## Databases:
+## Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## My Stats :
+## My Stats
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shaneyoung91&theme=tokyonight)
 
 ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyoung91&theme=tokyonight)
@@ -58,7 +56,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoung91&layout=donut&theme=tokyonight)
 
 
-## :link: Recent Projects:
+## :link: Recent Projects
 
 - <b>Memory-Concentration Game</b> :arrow_right: [Click Here!](https://github.com/shaneyoung91/Memory-Concentration-Game.git)
 - <b>My Money, My Problems - A Personal Finance Budget App</b> :arrow_right: [Click Here!](https://my-money-my-problems-adc02cdb74c3.herokuapp.com/)
