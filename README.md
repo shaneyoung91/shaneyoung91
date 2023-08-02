@@ -17,7 +17,7 @@
 ## About Me
 - Currently a Student at General Assembly, with a focus in Full Stack Development. 
   
-- Transitioning from a Credit career in Corporate/Commercial Banking
+- Transitioning from a Credit career in Corporate/Commercial Banking.
   
 - I enjoy wine tasting :wine_glass:, tennis :tennis:, video games :video_game:, personal finance :money_with_wings:, and cooking :fork_and_knife:!
 
@@ -57,7 +57,7 @@
 
 
 ## :link: Recent Projects
-
+ 
 - <b>Memory-Concentration Game</b> :arrow_right: [Click Here!](https://github.com/shaneyoung91/Memory-Concentration-Game.git)
 - <b>My Money, My Problems - A Personal Finance Budget App</b> :arrow_right: [Click Here!](https://my-money-my-problems-adc02cdb74c3.herokuapp.com/)
 
