@@ -22,6 +22,8 @@
 
 - 🌱 Learning: **Django, Python**
 
+- 🔮 Future Tech Stack to Learn: <b>MERN (MongoDB, ExpressJS, React, NodeJS)</b>
+
 <br>
 <b>My Hobbies/Interests include:</b>
 <ul>
