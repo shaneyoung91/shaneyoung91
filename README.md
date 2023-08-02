@@ -18,7 +18,7 @@
   
 - Let's Connect! :  [![Linkedin Badge](https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/)
 
----
+<img align="right" alt="GIF" src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/b52c2393-d409-4f7c-8440-3b39b33a2be9.gif" width="408" height="318" />
 
 ## Programming Languages:
 <p>
@@ -47,8 +47,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
-
 ## My Stats :
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shaneyoung91&theme=tokyonight)
 
@@ -56,7 +54,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoung91&layout=donut&theme=tokyonight)
 
----
 
 ## :link: Recent Projects:
 
