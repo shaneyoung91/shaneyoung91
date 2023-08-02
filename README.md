@@ -21,7 +21,7 @@
   
 - I enjoy wine tasting :wine_glass:, tennis :tennis:, video games :video_game:, personal finance :money_with_wings:, and cooking :fork_and_knife:!
 
-<img align="right" alt="GIF" src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/b52c2393-d409-4f7c-8440-3b39b33a2be9.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/b52c2393-d409-4f7c-8440-3b39b33a2be9" width="408" height="318" />
 
 ## Programming Languages:
 <p>
