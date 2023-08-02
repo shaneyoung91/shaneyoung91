@@ -1,6 +1,5 @@
-<div align="center">
-  <h3>Hi there 👋, I'm Shane Young</h3>
-</div>
+<h1 align="center">Hi 👋, I'm Shane Young</h1>
+<h3 align="center">Software Developer & Lifelong Learner</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/"/>
@@ -18,8 +17,20 @@
 - Currently a Student at General Assembly, with a focus in Full Stack Development. 
   
 - Transitioning from a Credit career in Corporate/Commercial Banking.
-  
-- I enjoy wine tasting :wine_glass:, tennis :tennis:, video games :video_game:, personal finance :money_with_wings:, and cooking :fork_and_knife:!
+
+- 🔭 Current Project: [PawFolio](https://github.com/shaneyoung91/pawfolio)
+
+- 🌱 Learning: **Django, Python**
+
+<br>
+<b>My Hobbies/Interests include:</b>
+<ul>
+  <li>Wine Tasting :wine_glass:</li>
+  <li>Tennis :tennis:</li>
+  <li>Video Games :video_game:</li>
+  <li>Personal Finance :money_with_wings:</li> 
+  <li>Cooking :fork_and_knife:</li>
+</ul>
 
 ## Programming Languages
 <p>
