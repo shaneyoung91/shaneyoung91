@@ -14,17 +14,12 @@
   <img src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/1a5c5020-399f-47ab-9e74-685223f823d4"/>
 </div>
 
-
----
-
 ## About Me :
 - Currently a SWE Student at General Assembly
   
 - Transitioning from a Credit career in Corporate/Commercial Banking
   
 - I enjoy wine tasting :wine_glass:, tennis :tennis:, video games :video_game:, personal finance :money_with_wings:, and cooking :fork_and_knife:!
-  
-- 
 
 <img align="right" alt="GIF" src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/b52c2393-d409-4f7c-8440-3b39b33a2be9.gif" width="408" height="318" />
 
