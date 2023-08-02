@@ -1,11 +1,19 @@
-### Hi there :wave:, I'm Shane Young
-<div id="header">
+<div align="center">
+  <h3>Hi there 👋, I'm Shane Young</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=shaneyoung91&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
   <img src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/1a5c5020-399f-47ab-9e74-685223f823d4"/>
 </div>
+
 
 ---
 
@@ -16,7 +24,7 @@
   
 - I enjoy wine tasting :wine_glass:, tennis :tennis:, video games :video_game:, personal finance :money_with_wings:, and cooking :fork_and_knife:!
   
-- Let's Connect! :  [![Linkedin Badge](https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/)
+- 
 
 <img align="right" alt="GIF" src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/b52c2393-d409-4f7c-8440-3b39b33a2be9.gif" width="408" height="318" />
 
