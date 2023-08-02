@@ -20,13 +20,6 @@
 
 ---
 
-## :link: Recent Projects:
-
-- <b>Memory-Concentration Game</b> :arrow_right: [Click Here!](https://github.com/shaneyoung91/Memory-Concentration-Game.git)
-- <b>My Money, My Problems - A Personal Finance Budget App</b> :arrow_right: [Click Here!](https://my-money-my-problems-adc02cdb74c3.herokuapp.com/)
-
----
-
 ## Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,3 +53,13 @@
 ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyoung91&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoung91&layout=donut&theme=tokyonight)
+
+---
+
+## :link: Recent Projects:
+
+- <b>Memory-Concentration Game</b> :arrow_right: [Click Here!](https://github.com/shaneyoung91/Memory-Concentration-Game.git)
+- <b>My Money, My Problems - A Personal Finance Budget App</b> :arrow_right: [Click Here!](https://my-money-my-problems-adc02cdb74c3.herokuapp.com/)
+
+---
+
