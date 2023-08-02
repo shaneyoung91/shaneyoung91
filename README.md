@@ -50,7 +50,7 @@
 ---
 
 ## My Stats :
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shaneyoung91&theme=tokyonight_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shaneyoung91&theme=tokyonight)
 
 ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyoung91&theme=tokyonight)
 
