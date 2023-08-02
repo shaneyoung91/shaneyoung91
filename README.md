@@ -15,7 +15,7 @@
 </div>
 
 ## About Me :
-- Currently a SWE Student at General Assembly
+- Currently a Student at General Assembly, with a focus in Full Stack Development. 
   
 - Transitioning from a Credit career in Corporate/Commercial Banking
   
