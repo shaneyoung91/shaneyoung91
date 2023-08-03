@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shane Young</h1>
-<h3 align="center">Software Developer & Lifelong Learner</h3>
+<h3 align="center">Software Developer | Lifelong Learner</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Shane_Adam_Young-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaneadamyoung/"/>
