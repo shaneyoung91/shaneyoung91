@@ -18,11 +18,11 @@
   
 - Transitioning from a Credit career in Corporate/Commercial Banking.
 
-- 🔭 Current Project: [PawFolio](https://github.com/shaneyoung91/pawfolio)
+- 🔭 Latest Project: [PawFolio](https://github.com/shaneyoung91/pawfolio)
 
-- 🌱 Learning: **Django, Python**
+- 🌱 Learning: **React, MERN Stack**
 
-- 🔮 Future Tech Stack to Learn: <b>MERN (MongoDB, ExpressJS, React, NodeJS)</b>
+- 🔮 Future Technologies to Learn: <b>C, Go, C++</b>
 
 <br>
 <b>My Hobbies/Interests include:</b>
