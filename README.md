@@ -72,7 +72,7 @@
 ## :link: Recent Projects
  
 - <b>Memory-Concentration Game</b> :arrow_right: [Click Here!](https://github.com/shaneyoung91/Memory-Concentration-Game.git)
-- <b>My Money, My Problems - A Personal Finance Budget App</b> :arrow_right: [Click Here!](https://my-money-my-problems-adc02cdb74c3.herokuapp.com/)
+- <b>Personal Finance Budget App</b> :arrow_right: [Click Here!](https://my-money-my-problems-adc02cdb74c3.herokuapp.com/)
 - <b>Pawfolio</b> :arrow_right: [Click Here!](https://pawfolio-lovelace-7c9477f097c5.herokuapp.com/)
 
 ---
