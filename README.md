@@ -16,7 +16,7 @@
 ## About Me
 - Currently a Student at General Assembly, with a focus in Back End Development and Full Stack Development. 
   
-- Transitioning from a Credit career in Corporate/Commercial Banking.
+- Transitioning from a credit career in Finance.
 
 - 🔭 Latest Project: [PawFolio](https://github.com/shaneyoung91/pawfolio)
 
