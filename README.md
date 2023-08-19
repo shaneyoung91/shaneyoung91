@@ -18,7 +18,7 @@
   
 - Transitioning from a credit career in Finance.
 
-- 🔭 Latest Project: [PawFolio](https://github.com/shaneyoung91/pawfolio)
+- 🔭 Latest Project: [Willamette Valley Sip & Scribe](https://github.com/shaneyoung91/willamette-valley-sip-and-scribe)
 
 - 🌱 Learning: **React, MERN Stack**
 
