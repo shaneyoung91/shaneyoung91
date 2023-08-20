@@ -16,7 +16,7 @@
 ## About Me
 - Currently a Student at General Assembly, with a focus in Back End Development and Full Stack Development. 
   
-- Transitioning from a credit career in Finance.
+- Transitioning from a career in Banking/Finance.
 
 - 🔭 Latest Project: [Willamette Valley Sip & Scribe](https://github.com/shaneyoung91/willamette-valley-sip-and-scribe)
 
