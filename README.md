@@ -22,7 +22,7 @@
 
 - 🌱 Learning: **React, MERN Stack**
 
-- 🔮 Future Technologies to Learn: <b>C, TypeScript, React Native, C++</b>
+- 🔮 Future Technologies to Learn: <b>TypeScript, React Native, C, C++</b>
 
 <br>
 <b>My Hobbies/Interests include:</b>
