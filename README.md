@@ -14,13 +14,13 @@
 </div>
 
 ## About Me
-- Currently a Student at General Assembly, with a focus in Back End Development and Full Stack Development. 
+- Actively searching for a SWE role, either in Full-Stack or Back-End Development.
   
 - Transitioning from a career in Banking/Finance.
 
 - 🔭 Latest Project: [Willamette Valley Sip & Scribe](https://github.com/shaneyoung91/willamette-valley-sip-and-scribe)
 
-- 🌱 Learning: **React, MERN Stack**
+- 🌱 Currently Learning: **React, MERN Stack**
 
 - 🔮 Future Technologies to Learn: <b>TypeScript, React Native, C, C++</b>
 
