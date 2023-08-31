@@ -14,7 +14,7 @@
 </div>
 
 ## About Me
-- Actively searching for a SWE role, either in Full-Stack or Back-End Development.
+- Actively searching for an software developer role, preferrably in Full-Stack or Back-End Development.
   
 - Transitioning from a career in Banking/Finance.
 
