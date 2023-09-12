@@ -18,9 +18,9 @@
   
 - Transitioning from a career in Banking/Finance.
 
-- 🔭 Latest Project: [Willamette Valley Sip & Scribe](https://github.com/shaneyoung91/willamette-valley-sip-and-scribe)
+- 🔭 Current Project: [MoneySpread](https://github.com/shaneyoung91/digital-payment-app)
 
-- 🌱 Currently Learning: **React, MERN Stack**
+- 🌱 Currently Refining: **Django, Python, PostgreSQL**
 
 - 🔮 Future Technologies to Learn: <b>TypeScript, React Native, C, C++</b>
 
