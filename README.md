@@ -20,7 +20,7 @@
 
 - 🔭 Current Project: [MoneySpread](https://github.com/shaneyoung91/digital-payment-app)
 
-- 🌱 Currently Refining: **Django, Python, PostgreSQL**
+- 🌱 Currently Refining: **Django, Python**
 
 - 🔮 Future Technologies to Learn: <b>TypeScript, React Native, C, C++</b>
 
