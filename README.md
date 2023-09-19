@@ -28,7 +28,7 @@
 <b>My Hobbies/Interests include:</b>
 <ul>
   <li>Wine Tasting :wine_glass:</li>
-  <li>Tennis :tennis:</li>
+  <li>Tennis / Pickleball :tennis:</li>
   <li>Video Games :video_game:</li>
   <li>Personal Finance :money_with_wings:</li> 
   <li>Cooking :fork_and_knife:</li>
