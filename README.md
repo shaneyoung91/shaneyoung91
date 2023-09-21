@@ -16,7 +16,7 @@
 ## About Me
 - Actively searching for an software engineering role in front-end, back-end, full-stack development, and data analytics.
   
-- Transitioning from a career in Banking/Finance.
+- Transitioning from a career in Banking/Finance, where I focused in Credit, Underwriting, and Risk Management.
 
 - 🔭 Current Project: [MoneySpread](https://github.com/shaneyoung91/digital-payment-app)
 
