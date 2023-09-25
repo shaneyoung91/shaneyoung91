@@ -14,7 +14,7 @@
 </div>
 
 ## About Me
-- Actively searching for an software engineering role in front-end, back-end, full-stack development, and data analytics.
+- Actively searching for a developer role in front-end, back-end, full-stack development, and/or data analytics.
   
 - Transitioning from a career in Banking/Finance, where I focused in Credit, Underwriting, and Risk Management.
 
