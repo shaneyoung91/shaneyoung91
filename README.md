@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=shaneyoung91&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/shaneyoung91/shaneyoung91/assets/134543682/1a5c5020-399f-47ab-9e74-685223f823d4"/>
-</div>
-
 ## About Me
 - Actively searching for a developer role in front-end, back-end, full-stack development, and/or data analytics.
   
