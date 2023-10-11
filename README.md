@@ -18,7 +18,7 @@
 
 - 🌱 Currently Learning: **C#** - via freeCodeCamp & Microsoft --> [Link to Course](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft)
 
-- 🔮 Future Technologies to Learn: <b>TypeScript, React Native, C, C++</b>
+- 🔮 Future Technologies to Learn: <b>TypeScript, React Native</b>
 
 <br>
 <b>My Hobbies/Interests include:</b>
