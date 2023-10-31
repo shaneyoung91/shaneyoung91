@@ -16,7 +16,7 @@
 
 - 🔭 Current Project: [MoneySpread](https://github.com/shaneyoung91/digital-payment-app)
 
-- 🌱 Currently Learning: **C#** - via freeCodeCamp & Microsoft --> [Link to Course & Certification](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft)
+- 🌱 Currently Learning: **C#**
 
 - 🔮 Future Technologies to Learn: <b>TypeScript, React Native</b>
 
