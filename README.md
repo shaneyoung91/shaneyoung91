@@ -18,7 +18,7 @@
 
 - 🌱 Currently Learning: **C#**
 
-- 🔮 Future Technologies to Learn: <b>TypeScript, Ruby on Rails</b>
+- 🔮 Future Technologies to Learn: <b>TypeScript</b>
 
 <br>
 <b>My Hobbies/Interests include:</b>
