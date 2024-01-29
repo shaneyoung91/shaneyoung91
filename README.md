@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=shaneyoung91&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 ## About Me
 - Actively searching for my next role in software development and/or data analytics.
   
@@ -71,10 +72,14 @@
 
 ## My Stats
 <div align="center">
+  <img src="https://www.codewars.com/users/shaneyoung/badges/large?theme=dark" alt=""/>
+</div>
+<br/>
+<div align="center">
+
+  ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyoung91&theme=tokyonight)
   
   ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shaneyoung91&theme=tokyonight)
-  
-  ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaneyoung91&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneyoung91&layout=compact&theme=tokyonight)
   
