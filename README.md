@@ -11,7 +11,7 @@
 
 
 ## About Me
-- Software engineer focused in Full Stack and Backend Development.
+- Software engineer focused in Full Stack, Front End, and Backend Development.
   
 - Transitioning from a career in Banking/Finance, where I focused in Credit, Underwriting, and Risk Management.
 
