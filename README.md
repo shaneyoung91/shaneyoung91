@@ -13,7 +13,7 @@
 ## About Me
 - Software engineer focused in Full Stack Development.
   
-- Transitioning from a career in Banking/Finance, where I focused in Credit, Underwriting, and Risk Management.
+- Transitioning from a career in Banking/Finance, as a Credit Portfolio Manager.
 
 - 🔭 Current Project: [MoneySpread](https://github.com/shaneyoung91/digital-payment-app)
 
